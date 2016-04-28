@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./observationesgra00heusuoft_0001.png"; bbox 0 0 2066 3392; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 879 867 1615 1050">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 879 867 1615 1050">
+     <span class='ocr_line' id='line_1_1' title="bbox 882 867 1549 924; baseline 0.01 -15"><span class='ocrx_word' id='word_1_1' title='bbox 882 867 1174 924; x_wconf 82' lang='lat' dir='ltr'>Heussner,</span> <span class='ocrx_word' id='word_1_2' title='bbox 1215 869 1549 916; x_wconf 69' lang='lat' dir='ltr'>Friderious</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 984 935 1615 995; baseline 0.006 -16"><span class='ocrx_word' id='word_1_3' title='bbox 984 935 1414 982; x_wconf 58' lang='lat' dir='ltr'>Observassiones</span> <span class='ocrx_word' id='word_1_4' title='bbox 1452 951 1615 995; x_wconf 78' lang='lat' dir='ltr'><strong>gram-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 879 1005 1479 1050; baseline 0.007 -4"><span class='ocrx_word' id='word_1_5' title='bbox 879 1005 1110 1048; x_wconf 65' lang='lat' dir='ltr'>maticae</span> <span class='ocrx_word' id='word_1_6' title='bbox 1151 1006 1214 1048; x_wconf 70' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 1251 1006 1479 1050; x_wconf 68' lang='lat' dir='ltr'>Catulli</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 883 1069 1451 1117">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 883 1069 1451 1117">
+     <span class='ocr_line' id='line_1_4' title="bbox 883 1069 1451 1117; baseline 0.011 -6"><span class='ocrx_word' id='word_1_8' title='bbox 883 1069 1212 1116; x_wconf 72' lang='lat' dir='ltr'>Veronensis</span> <span class='ocrx_word' id='word_1_9' title='bbox 1252 1072 1451 1117; x_wconf 75' lang='lat' dir='ltr'>1ibrum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 582 376 1800 1794">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 582 376 1800 1794">
+     <span class='ocr_line' id='line_1_5' title="bbox 582 376 1800 1794; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 582 376 1800 1794; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 140 2824 474 3242">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 140 2824 474 3242">
+     <span class='ocr_line' id='line_1_6' title="bbox 140 2824 474 3242; baseline 0 150"><span class='ocrx_word' id='word_1_11' title='bbox 140 2824 474 3242; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
